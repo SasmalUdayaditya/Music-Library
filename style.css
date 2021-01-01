@@ -1,0 +1,47 @@
+*{
+	margin:0;
+	padding: 0;
+}
+.center-div
+{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+} 
+.heading
+{
+	width: 100%;
+	line-height: 80px;
+	font-size: 1.4rem;
+	background-image: linear-gradient(120deg, #d4fc79 0%, #96e6a1 100%);
+	font-family: 'Poppins', sans-serif;
+}
+form
+{
+	width: 400px;
+
+}
+
+.adheading
+{
+	width: 100%;
+	line-height: 50px;
+	font-size: 1rem;
+	background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+	font-family: 'Poppins', sans-serif;
+}
+
+.center-div2
+{
+	position: absolute;
+	height: 50px;
+	left: 50%;
+	padding-top: 20px;
+	transform: translate(-50%);
+}
+
+.TableC
+{
+	width: 80%;
+}
