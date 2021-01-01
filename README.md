@@ -1,2 +1,2 @@
 # Music-Library
-A website to listen your favorite playlist anywhere.
+Listen🎧 your favorite💙 music🎶 anywhere🌏.
